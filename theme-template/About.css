@@ -1,0 +1,7 @@
+body {
+	background: rgb(192,208,221);
+    background: radial-gradient(circle, rgba(192,208,221,1) 0%, rgba(233,173,119,1) 100%);
+}
+.nav-link{
+    color: black;
+   }
